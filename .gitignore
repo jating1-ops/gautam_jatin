@@ -1,0 +1,13 @@
+# data
+data/
+
+# outputs
+outputs/
+
+# model weights
+*.pth
+
+# environment
+.env
+__pycache__/
+*.pyc
